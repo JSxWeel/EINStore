@@ -1,2 +1,2 @@
 # EINStore
-A simple application for accounting of goods in stock, as well as monitoring its arrival and cost
+An application that allows you to take into account the arrival and departure of goods from warehouses, taking into account the cost and suppliers.
