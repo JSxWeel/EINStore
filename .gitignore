@@ -143,3 +143,5 @@ node_modules/wrappy/
 node_modules/yallist/
 node_modules/yauzl/
 node_modules/lru-cache/
+
+.idea/
